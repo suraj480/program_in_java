@@ -5,7 +5,7 @@ This repository contains Java programs that demonstrate various programming conc
 ## Programs
 
 1. **Duplicate Character Finder:**
-   - [DuplicateCharacterFinder.java](#link-to-java-file)
+   - [DuplicateCharacterFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/DuplicateCharacterFinder.java)
    - Program to find and display duplicate characters in a string.
 
 2. **Duplicate Number Finder:**
