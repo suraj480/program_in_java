@@ -8,7 +8,6 @@ public class DuplicateCharacterFinder {
 		Map<Character, Integer> charCountMap = new HashMap<>();
 		// Iterate through each character in the string
 		for (char c : inputString.toCharArray()) {
-			System.out.println(charCountMap);
 			// Check if the character is already in the map
 			if (charCountMap.containsKey(c)) {
 				System.out.println("Duplicate Character: " + c);
