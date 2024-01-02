@@ -9,42 +9,42 @@ This repository contains Java programs that demonstrate various programming conc
    - Program to find and display duplicate characters in a string.
 
 2. **Duplicate Number Finder:**
-   - [DuplicateNumberFinder.java](#link-to-java-file)
+   - [DuplicateNumberFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/DuplicateNumberFinder.java)
    - Program to find and display duplicate numbers in a Java array.
 
 3. **Duplicate Character in String:**
-   - [DuplicateCharacterInString.java](#link-to-java-file)
+   - [DuplicateCharacterInString.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/DuplicateCharacterFinder.java)
    - Program to find and display duplicate characters in a given string.
 
 4. **Duplicate Elements Finder:**
-   - [DuplicateElementsFinder.java](#link-to-java-file)
+   - [DuplicateElementsFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/DuplicateElementsFinder.java)
    - Program to find and display duplicate elements in an array.
 
 5. **Factorial Calculator:**
-   - [FactorialCalculator.java](#link-to-java-file)
+   - [FactorialCalculator.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/FactorialCalculator.java)
    - Program to calculate and display the factorial of a given number.
 
 6. **Min and Max Number Finder:**
-   - [MinMaxNumberFinder.java](#link-to-java-file)
+   - [MinMaxNumberFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/MinMaxNumberFinder.java)
    - Program to find and display the smallest and largest numbers in an array.
 
 7. **Missing Number Finder:**
-   - [MissingNumberFinder.java](#link-to-java-file)
+   - [MissingNumberFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/MissingNumberFinder.java)
    - Program to find and display a missing number in an array.
 
 8. **Second Largest Finder:**
-   - [SecondLargestFinder.java](#link-to-java-file)
+   - [SecondLargestFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/SecondLargestFinder.java)
    - Program to find and display the second largest element in an array.
 
 9. **Second Smallest Finder:**
-   - [SecondSmallestFinder.java](#link-to-java-file)
+   - [SecondSmallestFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/SecondSmallestFinder.java)
    - Program to find and display the second smallest number in an array.
 
 10. **Root Finder:**
-    - [RootFinder.java](#link-to-java-file)
+    - [RootFinder.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/RootFinder.java)
     - Program to find and display the square root and cube root of an integer.
 
 11. **Sum and Average Calculator:**
-    - [SumAndAverageCalculator.java](#link-to-java-file)
+    - [SumAndAverageCalculator.java](https://github.com/suraj480/program_in_java/blob/master/src/program_in_java/SumAndAverageCalculator.java)
     - Program to calculate and display the sum and average of a set of numbers.
 
